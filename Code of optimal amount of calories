@@ -1,0 +1,19 @@
+
+age = int(input("What is your age: "))
+gender = input('What is your gender: ')
+weight = int(input('What is your weight: '))
+height = int(input('What is your height: '))
+
+if gender == 'male':
+  c1 = 66
+  hm = 6.2 * height
+  wm = 12.7 * weight
+  am = 6.76 * age
+  bmr_result = c1 + hm + wm - am
+elif gender == 'female':
+  c1 = 655.1
+  hm = 4.35 * height
+  wm = 4.7 * weight
+  am = 4.7 * age
+  bmr_result = c1 + hm + wm - am
+print(bmr_result)
