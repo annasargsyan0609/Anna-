@@ -1,0 +1,21 @@
+
+{
+"foods": [
+  {
+  "food_code" : "151",
+  "food_name" : "pasta",
+  "calories" : 2000
+  },
+{
+  "food_code" : "152",
+  "food_name" : "barbeque",
+  "calories" : 1500
+  },
+{
+  "food_code" : "153",
+  "food_name" : "chicken",
+  "calories" : 1000
+  }
+
+]
+}
