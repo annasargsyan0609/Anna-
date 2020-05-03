@@ -1,0 +1,17 @@
+{
+"exercises": [
+  {
+  "exercise_name" : "Lunges",
+  "burntCalories" : 20
+  },
+{
+  "exercise_name": "Pushups",
+  "burntCalories": 15
+  },
+{
+  "exercise_name" : "Squats",
+  "burntCalories": 10
+  }
+
+]
+}
